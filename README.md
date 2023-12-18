@@ -1,6 +1,8 @@
 # Aerial Ortho-Image Color Normalization and Style Transfer
 
-![Color inconsistancies overview](GAN and NST.png)
+<p align="center">
+  <img src="./GAN%20and%20NST.png" alt="Color Inconsistencies Overview">
+</p>
 
 ## Project Overview
 
