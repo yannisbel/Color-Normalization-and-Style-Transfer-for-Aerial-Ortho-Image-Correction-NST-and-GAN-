@@ -1,5 +1,7 @@
 # Aerial Ortho-Image Color Normalization and Style Transfer
 
+![Color inconsistancies overview](GAN and NST.png)
+
 ## Project Overview
 
 This project addresses color inconsistencies in aerial ortho-images provided by the French National Institute of Geographic and Forestry Information (IGN). The IGN offers a comprehensive database of high-resolution aerial ortho-images, known as BD ORTHO, covering the entire national territory. These images are updated every three years, presenting a challenge in achieving color consistency when assembling images from different departments.
