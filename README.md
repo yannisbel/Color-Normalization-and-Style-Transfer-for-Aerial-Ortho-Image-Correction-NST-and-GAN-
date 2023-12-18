@@ -1,0 +1,2 @@
+# Color-Normalization-and-Style-Transfer-for-Aerial-Ortho-Image-Correction-NST-and-GAN-
+Worked on addressing color inconsistencies in aerial ortho-images produced by the French National Institute of Geographic and Forestry Information (IGN). Explored artificial intelligence approaches, including Neural Style Transfer and Generative Adversarial Networks (NST &amp; GAN). Conducted experiments and contributed to the research for publication.
